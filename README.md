@@ -5,6 +5,7 @@
 - :coffee: Desenvolvedor Web Full Stack em formação pela [Generation](https://brazil.generation.org/)
 
 Me encontre aqui 👇🏼
+
 [
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elton-santos-07/)](https://www.linkedin.com/in/elton-santos-07/)	[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=eltonssantos20@gmail.com)](mailto:eltonssantos20@gmail.com)	[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/channels/@tioelton#2137)](https://discord.com/channels/@tioelton#2137)
 

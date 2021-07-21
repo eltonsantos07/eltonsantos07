@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eltonsantos07&label=Profile%20views&color=0e75b6&style=flat" alt="eltonsantos07" /> </p>
 
-- 📍 **São Paulo - Brasil**
+- 📍 São Paulo - Brasil
 
 - 👨‍💻 Projeto mais recente que eu colaborei com o desenvolvimento: [https://ingressa.netlify.app/](https://ingressa.netlify.app/)
 
 - 📫 Me encontre no LinkedIn [https://www.linkedin.com/in/elton-santos-07/](https://www.linkedin.com/in/elton-santos-07/)
 
-- 📒 Estudande de **Ciência e Tecnologia na UFABC**
+- 📒 Estudande de Ciência e Tecnologia na UFABC
 
 
 <h3 align="left">Languages and Tools:</h3>

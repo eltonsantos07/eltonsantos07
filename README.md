@@ -59,8 +59,8 @@
 
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eltonsantos07&show_icons=true&locale=en&layout=compact" alt="eltonsantos07" /> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eltonsantos07&show_icons=true&locale=en" alt="eltonsantos07" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=eltonsantos07&show_icons=true&locale=en&layout=compact" alt="eltonsantos07" /> 
+  <img  src="https://github-readme-stats.vercel.app/api?username=eltonsantos07&show_icons=true&locale=en" alt="eltonsantos07" />
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eltonsantos07&" alt="eltonsantos07" /></p>
